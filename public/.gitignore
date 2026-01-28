@@ -1,0 +1,11 @@
+# elm-package generated files
+elm-stuff
+# elm-repl generated files
+repl-temp-*
+
+# macOS desktop store files
+.DS_Store
+.env
+node_modules/
+dist/
+*.log
